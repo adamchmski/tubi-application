@@ -5,6 +5,7 @@ A modern, interactive web application featuring draggable and resizable sticky n
 ## Demo
 
 Here's a demonstration of the sticky note component in action:
+(In reality it's smooth, but I had to reduce the frame rate of the gif so it would play faster)
 ![app](/app.gif)
 
 ## Features
